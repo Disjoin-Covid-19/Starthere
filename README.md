@@ -9,3 +9,6 @@ which can help provide insight on when a customers could visit the supermarket.
 
 # <h3> LEARN MORE ABOUT WHAT WE HAVE ACCOMPLISHED <h3>
 
+Our pitch deck is on the Disjoin Slides deck_Helpful.pdf
+
+Our team details on 
