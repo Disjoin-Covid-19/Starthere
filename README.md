@@ -12,5 +12,6 @@ which can help provide insight on when a customers could visit the supermarket.
 Our pitch deck is on the Disjoin Slides deck_Helpful.pdf
 
 Our team details on Team disjoin.pdf
+New team members updated list 
 
 The way we have handled our API's and links to our phased development of the product on Product development and API details.pdf 
