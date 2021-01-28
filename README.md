@@ -1,5 +1,3 @@
-# docs
-
 
 # <h1> DisJoin <h1>
 
