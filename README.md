@@ -1,6 +1,3 @@
-
-# <h2> Foottrack<h2>
-
 # <img src="foottrack logo small.png" alt="Foottrack logo">
 
 An application aimed at providing real-time data and live updates on the number 
@@ -12,8 +9,6 @@ which can help provide insight on when a customers could visit the supermarket.
 Our pitch deck for helpfule Engineering Hackathon is on the Disjoin Slides deck_Helpful.pdf
 
 Our team details on Team disjoin.pdf
-
-Our logo is in foortrack logo small.png
 
 Latest pitch deck after pivot to foottrack from disjoin is in https://docs.google.com/presentation/d/1XSUNdBJYgusXWB1LZbINliOT-b5e_ovwDinXuCtMMkg/edit?usp=sharing
 
