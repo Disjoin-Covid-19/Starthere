@@ -8,7 +8,7 @@ Assist the store in managing foot traffic of customers in the store to avoid ove
 
 Our pitch deck for helpfule Engineering Hackathon is on the Disjoin Slides deck_Helpful.pdf
 
-Our team details on Team disjoin.pdf
+Our team details on Team.doc
 
 Latest pitch deck after pivot to foottrack from disjoin is in https://docs.google.com/presentation/d/1XSUNdBJYgusXWB1LZbINliOT-b5e_ovwDinXuCtMMkg/edit?usp=sharing
 
