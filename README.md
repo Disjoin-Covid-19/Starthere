@@ -6,7 +6,7 @@ Assist the store in managing foot traffic of customers in the store to avoid ove
 
 # <h3> LEARN MORE ABOUT WHAT WE HAVE ACCOMPLISHED <h3>
 
-Our pitch deck for helpfule Engineering Hackathon is on the Disjoin Slides deck_Helpful.pdf
+Our pitch deck for helpfull Engineering Hackathon is on the Disjoin Slides deck_Helpful.pdf
 
 Our team details on Team.doc
 
