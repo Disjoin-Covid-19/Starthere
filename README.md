@@ -1,8 +1,8 @@
 # <img src="foottrack logo small.png" alt="Foottrack logo">
 
-An application aimed at providing real-time data and live updates on the number 
-of people in a given supermarket and also predict data for the upcoming slots 
-which can help provide insight on when a customers could visit the supermarket.
+An application aimed at providing real-time data and live updates on the number of people in a given store front.
+Predict data for the upcoming slots to provide insight on when a customers can visit the store.
+Assist the store in managing foot traffic of customers in the store to avoid over crowding. 
 
 # <h3> LEARN MORE ABOUT WHAT WE HAVE ACCOMPLISHED <h3>
 
